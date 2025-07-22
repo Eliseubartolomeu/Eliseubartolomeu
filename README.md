@@ -1,7 +1,7 @@
-# Hi 👋! 
+# Hello World 👋! 
 
 ### Welcome to my Github Profile
-I am Eliseu developer skilled in developing web systems and applications on both the Front and Backend...
+I am Eliseu, developer skilled in developing web systems and applications on both the Front and Backend...
 
 ##
 
